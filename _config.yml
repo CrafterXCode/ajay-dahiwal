@@ -12,10 +12,6 @@ plugins:
 
 owner:
   name: Ajay Dahiwal
-  avator: /assets/images/profile.png
-
-author:
-  name: Ajay Dahiwal
   avatar: /assets/images/profile.png
   bio: Senior Software Engineer with 9+ years of experience building scalable SaaS platforms and backend systems.
   location: Pune, India
