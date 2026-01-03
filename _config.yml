@@ -10,6 +10,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+owner:
+  name: Ajay Dahiwal
+  avator: /assets/images/profile.png
+
 author:
   name: Ajay Dahiwal
   avatar: /assets/images/profile.png
